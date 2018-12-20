@@ -1,0 +1,14 @@
+[2018-12-20 10:48:26.093] [exthost] [info] extension host started
+[2018-12-20 10:48:26.106] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2018-12-20 10:48:26.106] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2018-12-20 10:48:26.110] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-12-20 10:48:26.110] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2018-12-20 10:48:26.130] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-12-20 10:48:26.130] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2018-12-20 10:48:26.222] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-12-20 10:48:26.222] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2018-12-20 10:48:26.228] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens {"startup":true,"activationEvent":"*"}
+[2018-12-20 10:48:26.228] [exthost] [info] ExtensionService#loadCommonJSModule /home/salim/.vscode/extensions/eamodio.gitlens-9.2.2/dist/extension
+[2018-12-20 10:48:26.334] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight {"startup":true,"activationEvent":"*"}
+[2018-12-20 10:48:26.334] [exthost] [info] ExtensionService#loadCommonJSModule /home/salim/.vscode/extensions/naumovs.color-highlight-2.3.0/dist/extension
+[2018-12-20 10:48:26.364] [exthost] [info] eager extensions activated
