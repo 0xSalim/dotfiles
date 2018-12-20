@@ -1,2 +1,4 @@
-# dotfiles
-My personnal dotfiles
+# Dotfiles
+
+Here are my personnal dotfiles, and how to install them.
+
