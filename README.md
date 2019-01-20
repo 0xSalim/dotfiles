@@ -46,3 +46,4 @@ Do `Ctrl+b`and `Ctrl+:`
 
 Enter `source-file /home/salim/.tmux.conf`
 
+Install `Spotify` from package manager.
